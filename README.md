@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# YouTube API React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstrates the use of React to interact with YouTube APIs, providing a simple interface for searching and watching YouTube videos. An API key is required in /src/apis/youtube.js. 
 
 ## Available Scripts
 
